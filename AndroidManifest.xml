@@ -14,7 +14,7 @@
  	<uses-feature android:name="android.hardware.camera.autofocus" />
     <uses-sdk
         android:minSdkVersion="8"
-        android:targetSdkVersion="17" />
+        android:targetSdkVersion="19" />
 
     <application
         android:name="com.winraguini.momoapp.FacebookApplication"
